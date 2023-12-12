@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CoobTheScientist
+- I'm a recent CS graduate and eager to share/create my projects
+- My main languages are Java and C++ but also proficient in Python, Javascript, HTML, XML, CSS.
