@@ -1,4 +1,4 @@
-# Hi there, I’m [Yacob]! 👋
+# Hi there, I’m Yacob! 👋
 
 I’m a developer currently pursuing a **Master’s degree in Computer Science**, with a focus on **Artificial Intelligence** and **Machine Learning**. I love exploring new algorithms, building intelligent systems, and finding real-world applications for AI/ML.
 
