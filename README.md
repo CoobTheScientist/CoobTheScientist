@@ -41,8 +41,6 @@ I’m a developer currently pursuing a **Master’s degree in Computer Science**
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoobTheScientist&show_icons=true&count_private=true&hide_border=true)](https://github.com/CoobTheScientist)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoobTheScientist&layout=compact&hide_border=true)](https://github.com/CoobTheScientist)
 
 Happy coding!
