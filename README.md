@@ -40,10 +40,9 @@ I’m a developer currently pursuing a **Master’s degree in Computer Science**
 ---
 
 ## GitHub Stats
-<!-- You can generate your own stats with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). Replace `YourUserName` with your GitHub username. -->
 
-[![CoobTheScientist's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&count_private=true&hide_border=true)](https://github.com/YourUserName)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoobTheScientist&show_icons=true&count_private=true&hide_border=true)](https://github.com/CoobTheScientist)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&hide_border=true)](https://github.com/YourUserName)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoobTheScientist&layout=compact&hide_border=true)](https://github.com/CoobTheScientist)
 
 Happy coding!
